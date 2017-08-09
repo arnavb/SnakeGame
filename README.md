@@ -1,5 +1,8 @@
 # SnakeGame
-![Language(C++)](https://img.shields.io/badge/Powered%20By-C%2B%2B-brightgreen.svg) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/arnavb/SnakeGame/blob/master/LICENSE.txt)
+
+![language(C++)](https://img.shields.io/badge/language-c%2B%2B-brightgreen.svg)
+![Powered by SFML](https://img.shields.io/badge/powered%20by-SFML-68f442.svg)
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/arnavb/SnakeGame/blob/master/LICENSE.txt)
 
 A simple clone of the game Snake made using SFML and Visual C++.
 
