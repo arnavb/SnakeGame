@@ -50,6 +50,6 @@ int main()
 ```
 Then download and link SFML as outlined [here](https://www.sfml-dev.org/tutorials/2.4/start-linux.php). Make sure the four resource files that end in `.ttf` or `.png` are in the same directory as the executable.
 
-For other platforms, check out the [tutorials](https://www.sfml-dev.org/tutorials/2.4/) for how to set up the game._
+For other platforms, check out the [tutorials](https://www.sfml-dev.org/tutorials/2.4/) for how to set up the game.
 
-_This repository __does NOT__ accept pull requests and all pull requests will effectively be ignored.
+_This repository __does NOT__ accept pull requests and all pull requests will effectively be ignored._
