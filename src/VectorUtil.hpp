@@ -15,7 +15,7 @@ template<typename To, typename From> sf::Vector2<To> vector2Cast(sf::Vector2<Fro
 	return sf::Vector2<To>{ static_cast<To>(arg.x), static_cast<To>(arg.y) };
 }
 
-template<typename To, typename From> sf::Vector2<To> vector2Cast(From argX, From argY)
+template<typename To, typename From> sf::Vector2<To> vector2Cast(From argX, To argY)
 {
 	return vector2Cast<To>(sf::Vector2<From>{ argX, argY });
 }
