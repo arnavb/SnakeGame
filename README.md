@@ -1,8 +1,7 @@
 # SnakeGame
 
-[![language(C++)](https://img.shields.io/badge/language-c%2B%2B-brightgreen.svg)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![Powered by SFML](https://img.shields.io/badge/powered%20by-SFML-68f442.svg)](https://www.sfml-dev.org/)
-[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/arnavb/SnakeGame/blob/master/LICENSE.txt)
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/arnavb/SnakeGame/blob/master/LICENSE)
 
 A simple clone of the game Snake made using SFML and Visual C++. This project, and all associated code, is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License) as outlined under [LICENSE](https://github.com/arnavb/SnakeGame/blob/master/LICENSE).
 
